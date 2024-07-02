@@ -11,3 +11,11 @@ Redux Toolkit
 TypeScript
 Async-thunk
 CSS Modules (для стилизации)
+
+Установите зависимости:
+npm install
+
+Запустите проект (фейковый сервер и React-приложение одновременно):
+npm run dev
+
+Откройте http://localhost:3000 в браузере для просмотра приложения.
